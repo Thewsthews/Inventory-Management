@@ -1,4 +1,4 @@
-# Inventory Management System
+# Inventory Management System 🐚
 
 ## About the Project
 Inventory management is the practice of ordering, storing, tracking, and controlling inventory. This system applies to every item a business uses to produce its products or services – from raw materials to finished goods. In other words, this inventory management system covers every aspect of a business’s inventory.
